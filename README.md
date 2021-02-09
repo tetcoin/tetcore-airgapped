@@ -1,4 +1,4 @@
-# [WIP] Substrate Airgapped
+# [WIP] Tetcore Airgapped
 
 Tools to facilitate an air-gapped construction, decoding, and signing flow for transactions of `FRAME`-based chains.
 
